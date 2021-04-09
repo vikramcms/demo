@@ -2,4 +2,4 @@
 
 This is a simple readme file
 
-bad branch updated
+bad branch deleted
