@@ -1,0 +1,9 @@
+#Demo Project README
+
+This is a simple readme file
+
+<<<<<<< HEAD
+bad branch deleted
+=======
+bad branch is not needed
+>>>>>>> bad
